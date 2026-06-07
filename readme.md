@@ -31,6 +31,11 @@ Here are the actual running results and hardware wiring diagram of this project:
 ### Demo
 ![Demo](demo.jpg)
 
+### Finished Diorama
+![Miniature room base with lighting](finished_base_initial.jpeg)
+
+![Finished miniature living room with lighting](finished_living_room_lit.jpg)
+
 ### Quality Comparison
 *(Note: The gap between RGB666 and RGB565 is most noticeable in very dark areas. The 16-bit RGB565 format often exhibits a green tint or obvious color banding in the dark parts, while the 18-bit RGB666 perfectly retains smooth and accurate dark tones.)*
 
